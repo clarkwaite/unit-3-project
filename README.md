@@ -7,6 +7,13 @@ tools used: MongoDB, ExpressJS, Angular, and Node.js
 
 styling: Materialize and CSS
 
+To run the project:
+
+• npm install
+
+•npm run start:dev
+
+•visit http://localhost:3000
 
 Trello:
 
